@@ -1,0 +1,14 @@
+.order-table {
+    width: 95%;
+    background-color: #fff;
+    padding: 1rem 2rem;
+    border: 1px solid black;
+    margin: auto;
+    height: 200px;
+}
+
+
+.order-table-container {
+    overflow: scroll;
+    height: 100%;
+}
